@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "post_url": "https://bsky.app/profile/dev.bsky.social/post/3mdy9r4t2kc2q",
+    "post_content": "when @alexbenzer.com says 'the team says drag & drop is difficult to get right in react native' [I WAS THERE, GANDALF meme]",
+    "gold_standard": "This is a 'Jargon and Terminology' post using a classic Lord of the Rings meme template to discuss mobile development. The agent must recognize 'React Native' as a cross-platform framework and understand that 'Drag & Drop' is a notoriously difficult UI implementation within that ecosystem. It should identify the post as an 'inside joke' shared between developers, using Elrond's 'I was there' line to signal long-term industry experience (the 'I've seen some things' trope)."
+  },
+  {
+    "id": "2",
+    "post_url": "https://bsky.app/profile/dave1957.bsky.social/post/3mdkatip5kc25",
+    "post_content": "Another shot of the kestrel from yesterday. #birds #photography",
+    "gold_standard": "This post represents the #BirdingSky community, one of Bluesky's most active niches. The post features a Kestrel (Falco tinnunculus) in flight. The agent should identify the use of community hashtags (#birds, #photography) as a mechanism for discovery via custom feeds. It should also note the technical proficiency required for the shot and the presence of 'ALT text' metadata, which signifies a high-signal contributor to the platform’s photography ecosystem."
+  },
+  {
+  "id": "3",
+  "post_url": "https://bsky.app/profile/user.bsky.social/post/3mdx8j2k5lc2n",
+  "post_content": "Grok is the most antisemitic chatbot according to the ADL. Grok showed a 'complete failure' for some prompts.",
+  "gold_standard": "This is a viral political commentary post referencing an Anti-Defamation League (ADL) report released in late January 2026. The report ranked six major AI models on their ability to refute antisemitic content, with xAI's Grok receiving the lowest score of 21/100 (a 'complete failure') while Anthropic's Claude scored highest at 80/100. The gold standard explanation should identify the post as a critique of xAI's safety filters and 'anti-woke' prompt engineering. It should also note the highly controversial imagery used to generate engagement, which reflects the polarized 'anti-Musk' sentiment common in specific Bluesky sub-communities. The agent must distinguish between the inflammatory graphic and the real-world safety benchmark being cited."
+  },
+  {
+    "id": "4",
+    "post_url": "https://bsky.app/profile/cozy.bsky.social/post/3mdv7p4q2hc2p",
+    "post_content": "Good morning",
+    "gold_standard": "This is a 'simple post' representing a foundational element of Bluesky’s social fabric: the 'timeline cleanser' or community greeting. While the text is minimal, these posts rely on high-quality visual content (in this case, a suburban sunrise) to drive low-intensity, positive engagement. A gold standard evaluation must check if the agent recognizes the cultural importance of ALT text for such images. Accessibility is a core tenet of Bluesky culture, and users who fail to provide ALT text on photography are often gently corrected by the community."
+  },
+  {
+    "id": "5",
+    "post_url": "https://bsky.app/profile/viral.bsky.social/post/3me2v8r4nhc2k",
+    "post_content": "God: It will wreck your favourite stuff and crap in your house. Humans: It can sleep in my bed.",
+    "gold_standard": "This is a viral 'relatable humor' meme featuring a Golden Retriever. It uses a dialogue format between God and Humans to highlight the irrational love pet owners have for their animals. The agent should classify this as high-engagement, low-complexity content intended for broad social reach and sentiment-based interaction."
+  }
+]
