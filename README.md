@@ -88,10 +88,3 @@ The current agent achieves high utility scores across 10+ test cases, ranging fr
 *   **Technical Jargon**: (e.g., PDS, ATProto, Vibe Coding)
 *   **Community Memes**: (e.g., Ralph Wiggum, $RALPH token)
 *   **Breaking News**: (e.g., New AI model releases or protocol forks)
-
-## 📄 Requirements
-*   Python 3.9+
-*   openai
-*   duckduckgo-search
-*   python-dotenv
-*   pydantic (for structured output)
